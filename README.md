@@ -7,9 +7,9 @@
 
 ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinialvessn&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinialvessn)](https://github.com/vinialvessn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinialvessn)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que estou aprendendo e utilizo no meu dia
+## Tecnologias que estou aprendendo e utilizo no meu dia 💻
 
 <div style="display: inline.block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -24,6 +24,6 @@
 Apaixonado por tecnologia e programação, buscando conhecimento a cada dia que passa.
 
 ## Últimos projetos
--
+- Página de pedidos (Lanchonete)
 -
 -
