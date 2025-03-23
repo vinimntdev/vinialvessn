@@ -5,9 +5,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alvessnvini/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vialvessn)
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazymux&show_icons=true&theme=dracula)
+![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinialvessn&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazymux)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinialvessn)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que estou aprendendo e utilizo no meu dia 💻
 
