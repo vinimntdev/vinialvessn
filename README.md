@@ -1,4 +1,4 @@
-<img width="1902" height="906" alt="image" src="https://github.com/user-attachments/assets/4f82dc3f-7b64-47a6-bbe4-ab03967e0a93" />## Olá! Eu sou o Vinicius Monteiro ✋
+## Olá! Eu sou o Vinicius Monteiro ✋
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vialvessn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-alves-monteiro-293054248/)
