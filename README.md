@@ -1,4 +1,4 @@
-## Olá! Eu sou o Vinicius Monteiro ✋
+<img width="1902" height="906" alt="image" src="https://github.com/user-attachments/assets/4f82dc3f-7b64-47a6-bbe4-ab03967e0a93" />## Olá! Eu sou o Vinicius Monteiro ✋
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vialvessn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-alves-monteiro-293054248/)
@@ -21,6 +21,6 @@
 Apaixonado por tecnologia e programação, buscando conhecimento a cada dia que passa.
 
 ## Últimos projetos
-- Página de pedidos (Lanchonete)
--
--
+- Sistema de Monitoramento de Rede (Python & Flask): Aplicação web para monitoramento em tempo real de dispositivos IP, com persistência de dados em SQLite e alertas automáticos.
+- Dashboard de Performance Industrial (Power BI): Painel interativo para análise de OEE (Eficiência Global), utilizando medidas DAX complexas para suporte à tomada de decisão.
+- 
